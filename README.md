@@ -1,4 +1,4 @@
-This is a simple Python package that aims to make using linear regression easier for programmers. For now, it only provides a simple linear regresion calculation that is based on one independent variable.
+This is a simple Python package that aims to make using linear regression easier for programmers.
 
 You can create a simple linear regression model as following:
 
